@@ -4,8 +4,9 @@ This repository contains Java concepts, examples, and notes that I am learning t
 
 Topics include:
 - Java Basics
+- Arrays
+- Strings
 - OOP
-- Arrays & Strings
 - Collections Framework
 - Exception Handling
 - File Handling
