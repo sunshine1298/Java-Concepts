@@ -2,11 +2,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-<<<<<<< HEAD
-public class MaxiandMinElement {
-=======
 public class MaximumandMinimumElement {
->>>>>>> d0bcf4b (Push Program)
     public static void main(String[] args) {
         int[] arr = {98, 45, 34, 23, 67};
 
