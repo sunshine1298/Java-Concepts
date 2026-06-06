@@ -1,4 +1,9 @@
-public class ReElement {
+// Remove all occurrences of a given value from an array
+// Uses the two-pointer technique to overwrite unwanted elements
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
+public class RemoveSpecificElement {
     public static void main(String[] args) {
         int[] nums = {0,1,2,2,3,0,4,2};
 
