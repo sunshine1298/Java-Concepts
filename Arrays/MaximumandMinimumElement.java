@@ -1,3 +1,7 @@
+// Find the maximum and minimum element in an array
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 public class MaxiandMinElement {
     public static void main(String[] args) {
         int[] arr = {98, 45, 34, 23, 67};
