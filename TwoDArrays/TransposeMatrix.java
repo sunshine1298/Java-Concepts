@@ -1,4 +1,9 @@
-public class Transpose {
+// Find the transpose of a matrix by swapping rows and columns
+// The element at position [i][j] becomes [j][i] in the transposed matrix
+// Time Complexity: O(rows × columns)
+// Space Complexity: O(rows × columns)
+
+public class TransposeMatrix {
 
     public static int[][] transpose(int[][] matrix) {
 
